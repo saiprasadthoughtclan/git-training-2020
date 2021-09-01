@@ -7,3 +7,5 @@
 5. Raise a pull request to the original ThoughtClan repository's **master branch**
 
 These instructions must not be present in the final README file submitted by your pull request.
+
+If your pull request does not have conflict with the master branch, then you've gone wrong and should restart. Ensuring you are creating a new branch from the `assignment-start` branch of the ThoughtClan repository.
